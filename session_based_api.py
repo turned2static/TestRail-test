@@ -5,7 +5,7 @@ client = APIClient('https://fyodortraining.testrail.io/')
 
 # Prompt for the user and password
 client.user = 'fyodor.repollo@gurock.io'
-client.password = 'Gurock6yhn7ujm'
+client.password = ''
 
 # Set up the credentials
 credentials = {'email': client.user, 'password': client.password}
