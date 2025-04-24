@@ -9,7 +9,7 @@ client = APIClient('https://fyodortraining.testrail.io/')
 
 # Prompt for the user and password
 client.user = 'fyodor.repollo@gurock.io'
-client.password = 'Gurock6yhn7ujm'
+client.password = ''
 
 # Define the project where the test suite and test cases will be added
 project_id = int(input('Enter a project ID: '))
