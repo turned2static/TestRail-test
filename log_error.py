@@ -1,4 +1,4 @@
-with open(r'C:\Users\3Monkeys\Downloads\log-2022-11-09.php') as phpfile:
+with open(r'C:\Users\Downloads\log-2022-11-09.php') as phpfile:
     # read each line of the file
     for x in phpfile.read().split('\n'):
         # if the word is found in the line
