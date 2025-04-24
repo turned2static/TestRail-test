@@ -5,7 +5,7 @@ from getpass import *
 client = APIClient('https://fyodortraining.testrail.io/')
 #client = APIClient('https://fyodortraining.testrail.io/')
 client.user = 'fyodor.repollo@gurock.io'
-client.password = 'Gurock6yhn7ujm'
+client.password = ''
 #client.password = getpass('Password: ')
 '''
 def add_result(self, test_ids, status, comment='', defects=None, duration=0):
