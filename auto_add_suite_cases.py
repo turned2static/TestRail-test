@@ -2,7 +2,7 @@ from testrail import *
  
 client = APIClient('https://fyodortraining.testrail.io/')
 client.user = 'fyodor.repollo@gurock.io'
-client.password = 'Gurock6yhn7ujm'
+client.password = ''
 
 #create test suite
 project_id = int(input('Enter a project ID: '))
