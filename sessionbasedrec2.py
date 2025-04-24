@@ -3,7 +3,7 @@ import requests
 
 host = 'https://fyodortraining.testrail.io/'
 user = 'fyodor.repollo@gurock.io'
-password = 'Gurock6yhn7ujm'
+password = ''
 
 
 session = requests.Session()
