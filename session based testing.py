@@ -3,7 +3,7 @@ import requests
 # Set your TestRail host and API credentials
 host = 'https://fyodortraining.testrail.io/'
 user = 'fyodor.repollo@gurock.io'
-password = 'Gurock6yhn7ujm'
+password = ''
 
 # Authenticate to the TestRail API
 session = requests.Session()
